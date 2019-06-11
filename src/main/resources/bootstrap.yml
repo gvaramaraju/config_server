@@ -4,3 +4,5 @@ spring:
       server:
         git:
           uri: https://github.com/ramaraju-gva/config_properties
+  application:
+    name: config_server
